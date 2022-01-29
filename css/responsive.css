@@ -1,0 +1,233 @@
+/* media screen(max-width:1802px)  */
+
+@media screen and  (max-width: 1802px){
+    #delight .delight-img img{
+        width: 200px;}
+}
+
+
+/* media screen(max-width:1665px)  */
+
+@media screen and  (max-width: 1665px){
+    header nav ul li{
+        margin: 0 10px;}
+        
+    #our-story .story-desc p{
+        width: 80%;}
+
+    #our-story .story-desc h1{
+        margin-top: 0;}
+
+    #menu .menu-desc p{
+        width: 80%;}
+}
+
+/* media screen(max-width:1504px)  */
+
+@media screen and  (max-width: 1504px){
+    #delight .delight-desc h1{
+        margin-top: 0;}
+
+    #delight .delight-desc p{
+        width: 80%;}
+
+    #delight .delight-img img{
+        width: 45%;}
+}
+
+/* media screen(max-width:1323px)  */
+
+@media screen and  (max-width: 1323px){
+    header nav ul li{
+        margin: 0 5px;}  
+}
+
+/* media screen(max-width:1153px)  */
+
+@media screen and  (max-width: 1153px){
+    header nav ul li a{
+        font-size: 15px;} 
+         
+    #our-story .story-desc p{
+        width: 80%;
+        font-size: 15px;}
+
+    #our-story .story-desc h1{
+        margin-top: 0;
+        font-size: 20px;}
+
+    #sweet .sweet-desc h1 {
+        font-size: 35px;}
+
+    #sweet .sweet-desc p{
+        font-size: 20px;}
+
+    #menu .menu-desc h1{
+        margin-top: 0;}
+
+    #hot .hot-desc h1{
+        font-size: 35px;}
+
+    #hot .hot-desc p{
+        font-size: 25px;}
+}
+
+/* media screen(max-width:992px)  */
+
+@media screen and  (max-width: 992px){
+    header nav ul{
+        display: none;}
+
+    header .hamburger-icon{
+        display: block;
+        float: right;
+        margin: 10px 0;
+        cursor: pointer;}
+
+    #responsive-navigation{
+        display: block;
+        width: 220px;
+        height: 100vh;
+        position: absolute;
+        top: 0;
+        right: -220px;
+        z-index: 1;
+        background-color: rgb(0, 0, 0 , 0.9);}
+
+    #responsive-navigation ul{
+        display: block;
+        width: 100%;}
+
+    #responsive-navigation ul li{
+        width: 100%;
+        text-align: center;
+        margin: 0;}
+
+    header .logo{
+        float: left;}
+
+    header .header-desc h1{
+        font-size: 30px;}
+
+    header .header-desc p{
+        font-size: 18px;}
+
+    #our-story .story-img{
+        width: 100%;}
+
+    #our-story .story-desc{
+        width: 100%;}
+
+    #sweet{
+        margin-top: 220px;}
+
+    #menu .menu-desc h1{
+        font-size: 25px;}
+
+    #menu .menu-desc p{
+        font-size: 15px;}
+
+    #menu .menu-desc a{
+        font-size: 15px;}
+
+    #menu .menu-desc{
+        width: 100%;}
+
+    #menu .menu-img{
+        width: 100%;
+        margin-top: 30px;}
+
+    #menu{
+        height: 950px;}
+
+    #hot{
+        margin-top: 50px;}
+
+    #delight .delight-desc{
+        width: 100%;}
+
+    #delight .delight-img{
+        width: 100%;}
+
+    #delight{
+        height: 750px;}
+
+    #delight .delight-img img{
+        width: 45%;}
+
+    #delight .delight-img{
+        text-align: center;}
+
+    footer .footer-desc .about-us h2{
+        font-size: 25px;}
+
+    footer .footer-desc .about-us p{
+        font-size: 15px;
+        width: 90%;}
+
+    footer{
+        margin-top: 100px;
+        height: 800px;}
+
+    footer .footer-desc .news-lateer{
+        width: 100%;}
+
+    footer .footer-desc .social{
+        width: 100%;
+        margin-top: 50px;}
+
+    footer .copy-right{
+        margin-top: 400px;}
+}
+
+/* media screen(max-width:679px)  */
+
+@media screen and  (max-width: 679px){
+    #sweet .sweet-desc h1{
+        font-size: 25px;}
+
+    #hot{
+        margin-top: 200px;}
+}
+
+/* media screen(max-width:545px)  */
+
+@media screen and  (max-width: 545px){
+    header .header-desc h1{
+        font-size: 20px;}
+
+    header .header-desc p{
+        font-size: 13px;}
+
+    footer .footer-desc .about-us p{
+        font-size: 15px;
+        width: 90%;}
+
+    #sweet .sweet-desc p{
+            font-size: 15px;
+            width: 80%;}
+
+    #our-story{
+            height: 500px;}
+
+    #delight{
+        height: 1200px;}
+    
+    #delight .delight-img img{
+        width: 100%;
+        margin-top: 10px;}
+
+    header .logo img{
+        width: 80px;
+        margin-top: 5px;}
+
+    .hamburger-icon img{
+        width: 40px;
+        margin-top: 5px;}
+       } 
+
+
+
+
+
+
